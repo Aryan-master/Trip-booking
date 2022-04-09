@@ -1,4 +1,4 @@
-# Trip-booking 🏞
+# Trip-booking Web APP 🏞
 # PHP Project for CA-3
 
 Created a Web Project using PHP as a backend and MySQL as Database.
